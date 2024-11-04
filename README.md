@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhephG1
-- 👀 I’m interested in c/c++ and rust
+- 👀 I’m interested in c/c++ and python
 - 🌱 I’m currently studying electrical engineering 
 - 💞️ I’m looking to collaborate on game developement and embeded systems programming
 - 📫 How to reach me khephrengould@uvic.ca
